@@ -9,4 +9,4 @@
 <h2>Estadísticas</h3>
 
 ![andrescf098 GitHub stats](https://github-readme-stats.vercel.app/api?username=andrescf098&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrescf098&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrescf098&layout=compact&include_all_commits=true&count_private=true&theme=dracula)
