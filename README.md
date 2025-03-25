@@ -1,1 +1,1 @@
-![Banner](github-header-image.png)
+![Banner](banner.png)
